@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Kochetkov Pavlo, full stack web and blockchain developer
-- 👀 I’m interested in creating and forking DApp, Bot development and smart contract development
-- 🌱 I am passionate at Web development using React, Next.js, Vue.js and Node.js
+- 👀 I’m interested in creating and forking DApp, Bot development and smart contract development on EVM and Solana block chain. 
+- 🌱 I am passionate at Web development using React, Next.js, Vue.js and Node.js along with TypeScript
 - 💞️ I’m looking to collaborate on distributed web app devleopment
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: LMAO
